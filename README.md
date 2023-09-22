@@ -1,6 +1,6 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanm2711?theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanm2711&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanm2711&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-ryanm2711.vercel.app/api?username=ryanm2711&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-ryanm2711.vercel.app/api/top-langs/?username=ryanm2711&layout=compact&theme=tokyonight)
 
 <!--
 **ryanm2711/ryanm2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
